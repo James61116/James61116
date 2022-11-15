@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James and I am a student
 - 👀 I’m interested in learning Javascript and HTML5
-- 🌱 I’m currently learning Javascript (I'm only learning about command.log hehe)
+- 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on ....maybe not on this time yet
 - 📫 How to reach me by emailing me on jamesasis58@gmail.com
 
